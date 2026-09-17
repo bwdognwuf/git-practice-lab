@@ -1,3 +1,3 @@
 - Ping pong
-- Ping pong
+- Illustration
 - Python
